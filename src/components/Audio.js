@@ -67,6 +67,9 @@ export default class Audio extends Component {
 
     return (
       <div>
+        <div className="alert alert-info text-center" role="alert">
+          Use your microphone to create some holiday spirit! Simply click the button below and sing a song!
+        </div>
         <div className="d-grid gap-2 mb-5">
           <button className={`btn btn-block ${listening ? 'btn-danger' : 'btn-success'}`} onClick={this.toggleListening}>
             {listening ? 'Stop' : 'Start'} Listening
