@@ -73,7 +73,7 @@ export default class Audio extends Component {
           </button>
         </div>
         {values.map((value, index) => (
-          <FrequencyGraph key={index} value={value} />
+          <FrequencyGraph key={index} index={index} value={value} />
         ))}
       </div>
     );
