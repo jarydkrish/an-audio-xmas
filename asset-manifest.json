@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/an-audio-xmas/static/js/main.88c52c4b.chunk.js",
+    "main.js.map": "/an-audio-xmas/static/js/main.88c52c4b.chunk.js.map",
+    "runtime-main.js": "/an-audio-xmas/static/js/runtime-main.2381a5cb.js",
+    "runtime-main.js.map": "/an-audio-xmas/static/js/runtime-main.2381a5cb.js.map",
+    "static/js/2.cb48d7b5.chunk.js": "/an-audio-xmas/static/js/2.cb48d7b5.chunk.js",
+    "static/js/2.cb48d7b5.chunk.js.map": "/an-audio-xmas/static/js/2.cb48d7b5.chunk.js.map",
+    "index.html": "/an-audio-xmas/index.html",
+    "static/js/2.cb48d7b5.chunk.js.LICENSE.txt": "/an-audio-xmas/static/js/2.cb48d7b5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2381a5cb.js",
+    "static/js/2.cb48d7b5.chunk.js",
+    "static/js/main.88c52c4b.chunk.js"
+  ]
+}
